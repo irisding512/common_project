@@ -1,0 +1,35 @@
+body {
+    background-color: darkblue;
+    color: lightgoldenrodyellow;
+}
+h1 {
+    color: lightcyan;
+    font-size: 30px;
+    font-family: "Courier New", Arial;
+    text-align: center;
+}
+h2 {
+    color: lightpink;
+    font-size: 20px;
+    font-family: "Courier New", Arial;
+}
+h3 {
+    color: wheat;
+    font-size: 15px;
+    font-family: "Courier New", Arial;
+}
+p {
+    line-height: 30px;
+}
+img {
+    border-style: solid;
+    border-width: 5px;
+    border-color: goldenrod;
+    border-top-right-radius: 30px;
+    padding: 10px;
+    margin: 10px;
+}
+ul {
+    display: inline-block;
+    margin-left: 50px;
+}
